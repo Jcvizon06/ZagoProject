@@ -1,3 +1,5 @@
 # ZagoProject
-myVar='JC'
-print=myVar
+myName='JC'
+print(myVar)
+myAge=26
+print(myAge)
